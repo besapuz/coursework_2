@@ -469,3 +469,1089 @@ INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "[36mGET /static/img/eye.png
 INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:35] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:38] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:54] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:54] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:00:59] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:02] "GET /posts/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:02] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:11] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:16] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:19] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:24] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:28] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:30] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:31] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:34] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:01:37] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:04:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:14:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:14:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:14:48] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:14:48] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:14:48] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:15:49] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:24:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:34:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:44:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 16:54:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:04:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:14:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:49] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:54] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:55] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:58] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:19:58] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:23:42] "[33mGET /search/1 HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:23:46] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:05] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:38] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:39] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:24:44] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:26:37] "[33mGET /search/?s=1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:26:44] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:16] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:17] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:18] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:18] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:18] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:18] "[33mGET /search/?s=leo HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:23] "[33mGET /search/?s= HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:28] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:27:49] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:29] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:35] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:36] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:36] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:36] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:36] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:30:37] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:34:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:39:33] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:39:35] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:39:36] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:40:12] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:44:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:51:30] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:51:31] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:51:31] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:51:32] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:51:32] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:52:52] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:53:13] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:53:45] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:54:01] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:54:02] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:54:17] "[31m[1mGET /search?search=leo HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:54:25] "[31m[1mGET /search?s=leo HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:54:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:11] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:13] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:13] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:15] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:15] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:16] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:18] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:19] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:45] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:46] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:46] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:46] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:55:46] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:06] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:07] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:12] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:12] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:12] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:14] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:14] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:16] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:56:17] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:57:56] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:57:56] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:57:57] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:57:57] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:21] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:22] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:23] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:24] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:24] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:24] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:25] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:38] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:58:49] "[31m[1mGET /search HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 17:59:31] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:00:43] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:00:44] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:00:44] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:00:45] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:01:04] "[33mGET /search/ HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:01:07] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:01:07] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:01:11] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:01:11] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:02:12] "GET /search?s=mnmn HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:02:12] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:04:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:10:31] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:10:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:10:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:10:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:10:32] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "GET /static/img/post5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:13:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:14:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:03] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:03] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:03] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "GET /search HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:15:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:03] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:05] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:16:05] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:20:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:27] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "GET /search?s=ghgj HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:21:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:23:36] "[35m[1mGET /search?s=ghgj HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:23:40] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:23:43] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:03] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:04] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:05] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "GET /search?s=dfcz HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:27] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:24:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:31] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:32] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:32] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "GET /search?s=sprut HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:25:37] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:26:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 28, in get_word_post
+    content = search_for_posts(get_content)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\utils.py", line 53, in search_for_posts
+    query = query.lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:31:09] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:31:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:31:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:31:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:31:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:32:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:32:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:32:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:32:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:16] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:16] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:16] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:20] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:23] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:23] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 29, in get_word_post
+    len_content = len(content)
+TypeError: object of type 'NoneType' has no len()
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:27] "[35m[1mGET /search?s=sprut HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:33:41] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:34:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:27] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "GET /search?s=ljv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:43] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:47] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "GET /search?s=я HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:51] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "GET /search?s=в HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "GET /search?s=у HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:43:59] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "GET /search?s=на HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "GET /search?s=+ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:44:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:45:55] "GET /search?s=+ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:45:55] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:45:55] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:45:55] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:45:55] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:46:02] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:46:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:46:02] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:46:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:46:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:47:10] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:47:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:47:10] "[36mGET /static/img/post5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:47:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:47:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:54:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:02] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:02] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:02] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:02] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:10] "GET /search?s=ljv HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:14] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:54] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:56:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:57:36] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:57:37] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:57:37] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:57:37] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:58:54] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:58:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:58:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:58:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:58:58] "[33mGET /tamplates/tag.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:59:55] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:59:55] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:59:55] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 18:59:55] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:03] "[33mGET /app/main/templates/post.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:41] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:41] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:41] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:41] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:43] "[33mGET /post/ HTTP/1.1[0m" 404 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:49] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:51] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:51] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:51] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:00:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:01] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:01] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:01] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:01] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:14] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:55] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:55] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:55] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:01:55] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:03] "[35m[1mGET /search?s=кот HTTP/1.1[0m" 500 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:12] "[35m[1mGET /search?s=дом HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:20] "[35m[1mGET /search?s=кот HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:20] "[35m[1mGET /search?s=кот HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:21] "[35m[1mGET /search?s=кот HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 30, in get_word_post
+    return render_template("search.html", content=content, word=word, len_content=len_content)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\search.html", line 55, in top-level template code
+    <a href="/posts/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 475, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'i' is undefined
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:21] "[35m[1mGET /search?s=кот HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:39] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:44] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:44] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:46] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:46] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:46] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:46] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:02:49] "[33mGET /app/main/templates/post.html HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:35] "[33mGET /app/main/templates/post.html HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:40] "GET /search?s=дом HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:40] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:40] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:40] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:43] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:48] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:48] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:03:48] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:19] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:25] "[33mGET /tamplates/bookmarks.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:04:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:39] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 19:10:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
