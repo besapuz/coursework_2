@@ -31,23 +31,20 @@ def get_posts_by_user(user_name):
     return posts_list
 
 
-def get_comments_by_post_id(post_id):
+def get_comments_by_post_id(post_id, c):
     """возвращает комментарии определенного поста"""
     list_comments = []
     try:
-        with open("data/comments.json", "r", encoding='utf8') as file:
+        with open(c, "r", encoding='utf8') as file:
             dict_comment = json.load(file)
     except (FileNotFoundError, JSONDecodeError):
         return "Файл не найден"
     for p in dict_comment:
         if post_id == p["post_id"]:
-            list_comments.append(p["comment"])
+            list_comments.append(p)
         else:
             continue
-    if len(list_comments) >= 1:
-        return list_comments
-    else:
-        return "Поста с таким номером не существует"
+    return list_comments
 
 
 def search_for_posts(query):
@@ -71,3 +68,4 @@ def get_post_by_pk(pk):
     for post in dict_json:
         if pk == post["pk"]:
             return post
+
