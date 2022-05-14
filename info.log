@@ -1,0 +1,471 @@
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:41:15] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:41:17] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:41:39] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:43:40] "GET /posts/2 HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:44:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:44:37] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:47:26] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1734, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:02] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:48:24] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:54:37] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:55:23] "GET /posts/1 HTTP/1.1" 200 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:55:35] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:56:39] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:58:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:34] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:35] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 14:59:35] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:02] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:03] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:03] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:03] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:03] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:00:03] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'int' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:01:36] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'int' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:01:38] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'int' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:01:39] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'int' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:01:39] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'int' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:01:39] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/2 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 19, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 81, in top-level template code
+    {% for i in comments %}
+TypeError: 'NoneType' object is not iterable
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:02:44] "[35m[1mGET /posts/2 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:03:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:37] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:42] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:43] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:43] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:04:43] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:09] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:05:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:06:55] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/1 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 18, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 61, in top-level template code
+    <b>{{ i.commenter_name.capitalise() }}:</b> {{ i.comment }}
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'str object' has no attribute 'capitalise'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:08:56] "[35m[1mGET /posts/1 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/1 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 18, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 61, in top-level template code
+    <b>{{ i.commenter_name.capitalise() }}:</b> {{ i.comment }}
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'str object' has no attribute 'capitalise'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:08:57] "[35m[1mGET /posts/1 HTTP/1.1[0m" 500 -
+INFO:root:Выполнен поиск
+ERROR:run:Exception on /posts/1 [GET]
+Traceback (most recent call last):
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\views.py", line 18, in page_tag
+    return render_template('post.html', comments=get_comments_by_post_id(post_id, "data/comments.json"))
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1291, in render
+    self.environment.handle_exception()
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 926, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\Александр\Desktop\python_обучениe\skypro\Skypro Домашки\coursework_2\app\main\templates\post.html", line 61, in top-level template code
+    <b>{{ i.commenter_name.capitalise() }}:</b> {{ i.comment }}
+  File "C:\Users\Александр\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\utils.py", line 83, in from_obj
+    if hasattr(obj, "jinja_pass_arg"):
+jinja2.exceptions.UndefinedError: 'str object' has no attribute 'capitalise'
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:08:58] "[35m[1mGET /posts/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:17] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:18] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:18] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:18] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:09:18] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:11:20] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:14:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:22:50] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:24:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:34:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:24] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:30] "[33mGET /tamplates/bookmarks.html HTTP/1.1[0m" 404 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:38:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:40:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:40:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:40:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:40:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:48] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:48] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:48] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:49] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:42:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:44:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:45:13] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "[36mGET /static/img/ava1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:44] "[36mGET /static/img/post1.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:50] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:48:50] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:53:26] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:53:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:53:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:53:26] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:53:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:38] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:58] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:58] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:58] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:58] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:54:58] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:17] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:17] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:17] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:17] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:35] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:35] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:35] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:35] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:37] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:37] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:37] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:37] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:55:56] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:04] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:04] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:04] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:04] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:07] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Выполнен поиск
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:26] "GET /posts/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:26] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:34] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:35] "[33mGET /tamplates/user-feed.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2022 15:56:38] "GET /static/css/styles.min.css.map HTTP/1.1" 200 -
