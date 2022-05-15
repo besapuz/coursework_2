@@ -34,14 +34,14 @@
       {% for c in content %}
         <div class="items__item item">
         <div class="item__top">
-          <a href="/tamplates/user-feed.html" class="item__head">
+          <a href="/users/{{ c.poster_name }}" class="item__head">
             <div class="item__ava-wrap">
               <img src="{{ c.poster_avatar }}" alt="" class="item__ava" width="47">
             </div>
             <span class="item__username">{{ c.poster_name.capitalize() }}</span>
           </a>
         </div>
-        <a href="/app/main/templates/post.html" class="item__post-link">
+        <a href="/posts/{{ c.pk }}" class="item__post-link">
           <img src="{{ c.pic }}" alt="" width="348" class="item__post-img">
         </a>
         <p class="item__descr"><a href="/tamplates/tag.html" class="item__tag">#food</a> {{ c.content[0:20] + "..." }}</p>
