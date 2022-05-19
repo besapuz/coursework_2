@@ -39,6 +39,8 @@ def get_comments_by_post_id(post_id, c):
             dict_comment = json.load(file)
     except (FileNotFoundError, JSONDecodeError):
         return "Файл не найден"
+    except KeyError:
+        return "Нет такого id"
     for p in dict_comment:
         if post_id == p["post_id"]:
             list_comments.append(p)

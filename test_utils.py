@@ -9,11 +9,11 @@ def test_get_list():
     assert type(get_json[0]) == dict, "Не является словарем"
 
 
-def test_key_error():
+def test_key_get_comments_by_post_id():
     with pytest.raises(KeyError):
-        get_comments_by_post_id(2, "data/data.json")
+        get_comments_by_post_id(100, "data/data.json")
 
 
-def test_value_error():
+def test_type_get_comments_by_post_id():
     with pytest.raises(TypeError):
         get_comments_by_post_id("2", {1})
