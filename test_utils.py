@@ -1,10 +1,11 @@
 from utils import get_posts_all, get_comments_by_post_id
 import pytest
 
+get_json = get_posts_all()
 
-def test_get_list_dict():
-    get_json = get_posts_all()
-    assert type(get_json) == list, "Не являтся списком"
+
+def test_get_list():
+    assert type(get_json) == list, "Не является списком"
     assert type(get_json[0]) == dict, "Не является словарем"
 
 
