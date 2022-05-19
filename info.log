@@ -1,87 +1,30 @@
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:46:06] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:46:09] "GET /api/posts/ HTTP/1.1" 200 -
 INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:root:Открыта главная страница
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:57:08] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:57:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:57:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:57:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:57:20] "GET /api/posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:47:09] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:root:Получены данные 2 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:47:12] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:root:Получены данные kjkn пользователя
+INFO:root:Ошибка формата
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:47:31] "GET /api/posts/kjkn HTTP/1.1" 200 -
 INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:59:03] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:59:04] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:59:05] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 17:59:26] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:root:Ошибка формата
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:48:13] "GET /api/posts/kjkn HTTP/1.1" 200 -
 INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:01:30] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:01:35] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получены данные 100 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:50:17] "GET /api/posts/100 HTTP/1.1" 200 -
 INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:04:27] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:04:30] "GET /api/posts HTTP/1.1" 200 -
+INFO:root:Получены данные 100 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:52:26] "GET /api/posts/100 HTTP/1.1" 200 -
+INFO:root:Получены данные 5 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:52:35] "GET /api/posts/5 HTTP/1.1" 200 -
+INFO:root:Получены данные 0 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:52:49] "GET /api/posts/0 HTTP/1.1" 200 -
 INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:05:44] "GET /api/posts/6 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:05:49] "GET /api/posts/9 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:05:53] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:07:29] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:07:32] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:08:34] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:08:37] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:root:Выполнен поиск по id
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:26] "GET /posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:root:Выполнен поиск по имени
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:28] "GET /users/johnny HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:28] "[33mGET /posts/ HTTP/1.1[0m" 404 -
-INFO:root:Выполнен поиск по id
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:29] "GET /posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:29] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:29] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:09:29] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:root:Открыта главная страница
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:18] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:18] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:18] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-INFO:root:Выполнен поиск по имени
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:24] "GET /users/leo HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:24] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:24] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:24] "[33mGET /posts/ HTTP/1.1[0m" 404 -
-INFO:root:Выполнен поиск по id
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:31] "GET /posts/5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:31] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:31] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:52:31] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:53:36] "GET /api/posts HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/May/2022 18:53:52] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:root:Открыта главная страница
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:33] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:41] "[32mGET /api/posts HTTP/1.1[0m" 308 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:41] "GET /api/posts/ HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:07:44] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:08:40] "GET /api/posts/2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:08:44] "GET /api/posts/ HTTP/1.1" 200 -
-INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:09:45] "GET /api/posts/ HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:09:48] "GET /api/posts/3 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:09:52] "GET /api/posts/5 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:11:11] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:13:51] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:18:11] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:18:13] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:18:19] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:18:21] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:18:25] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Получены данные 0 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:53:04] "GET /api/posts/0 HTTP/1.1" 200 -
+INFO:root:Получены данные 2 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:53:10] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:root:Ошибка формата
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:53:11] "GET /api/posts/2,22 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 00:53:51] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -

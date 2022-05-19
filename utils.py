@@ -68,6 +68,9 @@ def search_for_posts(query):
 
 def get_post_by_pk(pk):
     """возвращает один пост по его идентификатору"""
-    for post in dict_json:
-        if pk == post["pk"]:
-            return post
+    if 0 < pk <= len(dict_json):
+        for post in dict_json:
+            if pk == post["pk"]:
+                return post
+    else:
+        return "Число выходит за пределы списка"
