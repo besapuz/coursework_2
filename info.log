@@ -1,0 +1,11 @@
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Открыта главная страница
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:20] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:20] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:20] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:27] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:root:Получены данные 2 пользователя
+INFO:werkzeug:127.0.0.1 - - [20/May/2022 16:19:30] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)

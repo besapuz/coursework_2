@@ -1,9 +1,10 @@
 import logging
 
-from flask import Blueprint, jsonify
+from flask import Flask, Blueprint, jsonify
 
 from utils import get_posts_all, get_post_by_pk
 
+app = Flask(__name__)
 api_blueprint = Blueprint('api_blueprint', __name__)
 logging.basicConfig(level=logging.INFO)
 
@@ -25,3 +26,7 @@ def page_tag(post_id):
     else:
         content = get_post_by_pk(post_id)
         return jsonify(content)
+
+
+if __name__ == "__main__":
+    app.run(port=60)

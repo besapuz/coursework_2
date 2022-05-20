@@ -31,11 +31,11 @@ def get_posts_by_user(user_name):
     return posts_list
 
 
-def get_comments_by_post_id(post_id, c):
+def get_comments_by_post_id(post_id, json_list):
     """возвращает комментарии определенного поста"""
     list_comments = []
     try:
-        with open(c, "r", encoding='utf8') as file:
+        with open(json_list, "r", encoding='utf8') as file:
             dict_comment = json.load(file)
     except (FileNotFoundError, JSONDecodeError):
         return "Файл не найден"
