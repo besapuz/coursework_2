@@ -9,7 +9,7 @@ api_blueprint = Blueprint('api_blueprint', __name__)
 logging.basicConfig(level=logging.INFO)
 
 
-@api_blueprint.route("/api/posts/", methods=['GET'])
+@api_blueprint.route("/api/posts", methods=['GET'])
 def index_page():
     logging.debug("Получены все данные через API")
     return jsonify(get_posts_all())
@@ -29,4 +29,4 @@ def page_tag(post_id):
 
 
 if __name__ == "__main__":
-    app.run(port=60)
+    app.run(port=80)

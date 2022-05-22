@@ -24,10 +24,8 @@ def get_posts_by_user(user_name):
     user_name = user_name.lower()
     posts_list = []
     for i in dict_json:
-        if user_name in i["poster_name"]:
+        if user_name == i["poster_name"]:
             posts_list.append(i)
-        else:
-            continue
     return posts_list
 
 
@@ -44,8 +42,6 @@ def get_comments_by_post_id(post_id, json_list):
     for p in dict_comment:
         if post_id == p["post_id"]:
             list_comments.append(p)
-        else:
-            continue
     return list_comments
 
 
@@ -63,8 +59,6 @@ def search_for_posts(query):
                 if query in c["content"].lower():
                     list_content.append(c)
                     count += 1
-                else:
-                    continue
         return list_content
 
 
