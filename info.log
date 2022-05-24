@@ -108,3 +108,34 @@ INFO:werkzeug:127.0.0.1 - - [20/May/2022 21:06:39] "GET /api/posts/ HTTP/1.1" 20
 INFO:werkzeug:127.0.0.1 - - [20/May/2022 21:07:37] "GET /api/posts/ HTTP/1.1" 200 -
 INFO:root:Получены данные 3 пользователя
 INFO:werkzeug:127.0.0.1 - - [20/May/2022 21:07:41] "GET /api/posts/3 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:40] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:48] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:51] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:54] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:57] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:50:59] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:02] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:05] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:09] "[33mGET /api/posts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:22] "[33mGET /api/posts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:24] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:29] "[33mGET /api/posts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:32] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:root:Получены данные 2 пользователя
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:51:32] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:80 (Press CTRL+C to quit)
+INFO:root:Получены данные 2 пользователя
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:52:17] "GET /api/posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:52:20] "GET /api/posts/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:53:24] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:53:31] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:53:31] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:53:39] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:53:39] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:57:53] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:59:10] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:59:18] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 21:59:25] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2022 22:00:17] "[33mGET /wpad.dat HTTP/1.1[0m" 404 -

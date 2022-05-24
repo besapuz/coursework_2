@@ -9,7 +9,7 @@ api_blueprint = Blueprint('api_blueprint', __name__)
 logging.basicConfig(level=logging.INFO)
 
 
-@api_blueprint.route("/api/posts", methods=['GET'])
+@api_blueprint.route("/api/posts/", methods=['GET'])
 def index_page():
     logging.debug("Получены все данные через API")
     return jsonify(get_posts_all())
